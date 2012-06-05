@@ -3,6 +3,8 @@
 @author Darcy Clarke (http://darcyclarke.me)
 @version 1.0
  
+ Get and embed a video from a flickr url. 
+ 
  ## Example Use
  
  ```javascript
